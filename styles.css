@@ -1,9 +1,9 @@
-@font-face { font-family: AfacadFlux-VariableFont_slnt,wght; 
-			 src: url('./AfacadFlux-VariableFont_slnt,wght.ttf'); } 
+@font-face { font-family: AfacadFlux; 
+			 src: url('./static/AfacadFlux-Regular'); } 
 
 * {
     background-color: black;
-    font-family: Afacad Flux, sans-serif;
+    font-family: AfacadFlux, sans-serif;
 }
 
 h1 {
