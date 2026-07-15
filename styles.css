@@ -1,20 +1,22 @@
 @font-face { font-family: Afacad Flux; 
 			 src: url('./static/AfacadFlux-Regular.ttf'); } 
 
-* {
+body {
+    height:100%;
     background-color:#111113;
     font-family: Afacad Flux, sans-serif;
 }
 
-h1 {
-    text-align:center;
+.title {
     color:#F3EFF5;
+    text-align: center;
+    padding:4%
 }
 
 .responsive-three-columns {
     display:flex;
     flex-wrap:wrap;
-    margin:10%
+    margin:0 16% 0 16%
 }
 
 .responsive-three-columns * > {
