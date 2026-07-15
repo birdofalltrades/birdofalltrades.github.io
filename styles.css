@@ -2,13 +2,13 @@
 			 src: url('./static/AfacadFlux-Regular.ttf'); } 
 
 * {
-    background-color: black;
+    background-color:#111113;
     font-family: Afacad Flux, sans-serif;
 }
 
 h1 {
     text-align:center;
-    color:white;
+    color:#F3EFF5;
 }
 
 .responsive-three-columns {
