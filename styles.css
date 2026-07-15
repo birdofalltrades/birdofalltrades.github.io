@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Afacad+Flux');
+@font-face { font-family: AfacadFlux-VariableFont_slnt,wght; 
+			 src: url('./AfacadFlux-VariableFont_slnt,wght.ttf'); } 
 
 * {
     background-color: black;
