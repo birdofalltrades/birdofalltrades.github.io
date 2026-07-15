@@ -16,7 +16,7 @@ body {
 .responsive-three-columns {
     display:flex;
     flex-wrap:wrap;
-    margin:0 16% 0 16%
+    margin:0 16% 8% 16%
 }
 
 .responsive-three-columns * > {
